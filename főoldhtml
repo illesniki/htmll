@@ -10,12 +10,11 @@
         <img src="1.kep.jpg"></p>
         </center>
         <left>
-        <a href="gykh.html"><h2>Első évad-<i>A gyilkos ház</i></h2>
+        <a href="gykh.html"><h2>Első évad-<i>A gyilkos ház</i></h2> <img src="haz.jpg">
          </a>
          </left>
          <left>
-         <img src="haz.jpg">
-          <a href="zrt.html"><h2>Második évad-<i>Zártosztály</i></h2>
+          <a href="zrt.html"><h2>Második évad-<i>Zártosztály</i> </h2> <img src="apc.jpg">
           </a>
           </left>
       </font>
