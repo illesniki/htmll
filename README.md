@@ -2,7 +2,6 @@
   <head>
     <meta charset="utf-8">
     <link rel="stylesheet" type="text/css" href="htmll.css">
-    <title> Amerikai Horror Story</title>
   </head>
   <body>
         <h1>American horror story</h1>
