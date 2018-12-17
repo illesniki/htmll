@@ -23,7 +23,7 @@
           </a>
          </center>
        <center>
-       <a href="cirk.html"><h2>Negyedik évad-<i>Rémségek cirkusza</i> </h2> <img src="iker.jpg width="320" height="320"">
+       <a href="cirk.html"><h2>Negyedik évad-<i>Rémségek cirkusza</i> </h2> <img src="4evad.png">
           </a> 
          </center>
         </font>
