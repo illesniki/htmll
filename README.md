@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
@@ -12,8 +11,6 @@
         <h2>Első évad-<i>A gyilkos ház</i></h2>
         <a href="gykh.html"> <img src="haz.jpg" align="center"> </a>
         <a href="zrt.html"><h2>Második évad-<i>Zártosztály</i> </h2> <img src="apc.jpg" align="center">
-          </a>
-        <a href="bosz.html"><h2>Harmadik évad-<i>Boszokrányok</i> </h2> <img src="3evad.jpg">
           </a>
         <a href="bosz.html"><h2>Harmadik évad-<i>Boszokrányok</i> </h2> <img src="3evad.jpg">
           </a>
