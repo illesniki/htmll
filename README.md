@@ -7,8 +7,8 @@
      <font color="white"> <font face="Arial">
         <center>
         <h1>American horror story</h1>
-        <p> Az Amerikai Horror Story (American Horror Story) egy amerikai horror-dráma sorozat, amit Ryan Murphy és Brad Falchuk készített. A sorozat antológia jellegű, hiszen minden évad egy, az előzőtől független történetet mesél el, egyfajta minisorozatként kezelendő. Murphy szerint mindegyiknek van kezdete, közepe és vége. Az egyes évadok számos elemei igaz történeteken alapulnak. A sorozat ugyan antológia jellegű, azonban egyes karakterek feltűnnek több évadban is.</p>
-        <img src="1.kep.jpg" align="center"></p>
+        <p> Az Amerikai Horror Story (American Horror Story) egy amerikai horror-dráma sorozat, amit Ryan Murphy és Brad Falchuk készített. A sorozat antológia jellegű, hiszen minden évad egy, az előzőtől független történetet mesél el, egyfajta minisorozatként kezelendő. Murphy szerint mindegyiknek van kezdete, közepe és vége. Az egyes évadok számos elemei igaz történeteken alapulnak. A sorozat ugyan antológia jellegű, azonban egyes karakterek feltűnnek több évadban is. </p>
+        <img src="1.kep.jpg" align="center">
        </center>
        <center>
         <h2>Első évad-<i>A gyilkos ház</i></h2>
@@ -23,9 +23,8 @@
           </a>
          </center>
        <center>
-       <a href="cirk.html"><h2>Negyedik évad-<i>Rémségek cirkusza</i> </h2> <img src="iker.jpg">
+       <a href="cirk.html"><h2>Negyedik évad-<i>Rémségek cirkusza</i> </h2> <img src="iker.jpg width="320" height="320"">
           </a> 
          </center>
         </font>
-</body>
-</html>
+
